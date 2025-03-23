@@ -1,0 +1,1 @@
+These are the copyright licenses for creative work submitted to TF2Maps.net. Each license consists of the License Deed (for example tf2mcl-asset-default.txt) as well as the Definitions supplementary (tf2mcl-definitions.txt). See https://tf2maps.net/help/licenses/ for more information.
