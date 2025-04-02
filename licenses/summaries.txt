@@ -10,7 +10,7 @@ TF2MCL: Compiled Map - No SDK Use
 CHECK: You can share this BSP with others.
 CROSS: You may not use this for commercial purposes or upload it to the Steam Workshop.
 CROSS: You may not distribute edits of this with others.
-CROSS: You must ask for permission before sharing this inside of a mod.
+CROSS: You must get permission before sharing this inside of a mod.
 INFO: You must give proper credit about who made this or link to this page.
 INFO: This is not the whole license. Check the full License Text for more information.
 
@@ -29,7 +29,7 @@ CHECK: You can share this as part of a compiled map.
 CHECK: You may use this in a map uploaded to the Steam Workshop. If you do, the author must be added as a contributor.
 CROSS: You may not share this with others, except by packing it into a map.
 CROSS: You may not use this for commercial purposes, except by including it in a Steam Workshop map.
-CROSS: You must ask for permission before editing this.
+CROSS: You must get permission before editing this.
 INFO: You must give proper credit about who made this or link to this page.
 INFO: This is not the whole license. Check the full License Text for more information.
 
@@ -38,7 +38,7 @@ TF2MCL: Asset / VMF - No Workshop Uploading
 CHECK: You can share this as part of a compiled map.
 CROSS: You may not share this with others, except by packing it into a map.
 CROSS: You may not use this for commercial purposes.
-CROSS: You must ask for permission before uploading a map containing this to the Steam Workshop.
+CROSS: You must get permission before uploading a map containing this to the Steam Workshop.
 INFO: You must give proper credit about who made this or link to this page.
 INFO: This is not the whole license. Check the full License Text for more information.
 
@@ -48,7 +48,7 @@ CHECK: You can share this as part of a compiled map.
 CHECK: You may use this in a map uploaded to the Steam Workshop. If you do, the author must be added as a contributor.
 CROSS: You may not share this with others, except by packing it into a map.
 CROSS: You may not use this for commercial purposes, except by including it in a Steam Workshop map.
-CROSS: You must ask for permission before sharing this inside of a mod.
+CROSS: You must get permission before sharing this inside of a mod.
 INFO: You must give proper credit about who made this or link to this page.
 INFO: This is not the whole license. Check the full License Text for more information.
 
@@ -58,7 +58,7 @@ CHECK: You can share this as part of a compiled map.
 CROSS: You may not share this with others, except by packing it into a map.
 CROSS: You may not distribute edits of this with others.
 CROSS: You may not use this for commercial purposes.
-CROSS: You must ask for permission before uploading a map containing this to the Steam Workshop.
+CROSS: You must get permission before uploading a map containing this to the Steam Workshop.
 INFO: You must give proper credit about who made this or link to this page.
 INFO: This is not the whole license. Check the full License Text for more information.
 
@@ -67,9 +67,9 @@ TF2MCL: Asset / VMF - No Derivations + No SDK Use
 CHECK: You can share this as part of a compiled map.
 CHECK: You may use this in a map uploaded to the Steam Workshop. If you do, the author must be added as a contributor.
 CROSS: You may not share this with others, except by packing it into a map.
-CROSS: You must ask for permission before editing this.
+CROSS: You must get permission before editing this.
 CROSS: You may not use this for commercial purposes, except by including it in a Steam Workshop map.
-CROSS: You must ask for permission before sharing this inside of a mod.
+CROSS: You must get permission before sharing this inside of a mod.
 INFO: You must give proper credit about who made this or link to this page.
 INFO: This is not the whole license. Check the full License Text for more information.
 
@@ -77,10 +77,10 @@ INFO: This is not the whole license. Check the full License Text for more inform
 TF2MCL: Asset / VMF - No Derivations + No SDK Use + No Workshop Uploading
 CHECK: You can share this as part of a compiled map.
 CROSS: You may not share this with others, except by packing it into a map.
-CROSS: You must ask for permission before editing this.
+CROSS: You must get permission before editing this.
 CROSS: You may not use this for commercial purposes.
-CROSS: You must ask for permission before uploading a map containing this to the Steam Workshop.
-CROSS: You must ask for permission before sharing this inside of a mod.
+CROSS: You must get permission before uploading a map containing this to the Steam Workshop.
+CROSS: You must get permission before sharing this inside of a mod.
 INFO: You must give proper credit about who made this or link to this page.
 INFO: This is not the whole license. Check the full License Text for more information.
 
